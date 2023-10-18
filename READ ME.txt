@@ -1,0 +1,9 @@
+How to configure and Run the project
+1. Install Xampp
+2. Copy the project folder in C:\xampp\htdocs
+3. start apache and SQL in Xampp control pannel
+4. Click on Xampp in xampp control panel and you will redirect to http://localhost/phpmyadmin/index.php
+5. Click on New on left side of website
+6. Click on SQL from Top
+7. Open the file from C:\xampp\htdocs\E Recruitment System\database and copy all the code and paste in SQL and then press GO from bottom
+8. open http://localhost/E Recruitment System/HTML/
